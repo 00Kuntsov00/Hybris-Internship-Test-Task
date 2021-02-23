@@ -41,4 +41,5 @@ When you start the program on the command line, you will see the following menu:
         | To exit enter '10';                  | 
         +--------------------------------------+
 
-
+Project was tested with database name : task
+                             password : 12345
